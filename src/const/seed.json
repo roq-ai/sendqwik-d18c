@@ -1,0 +1,1652 @@
+[
+  {
+    "dashboard": [
+      {
+        "id": "24896796-cfbd-4544-8a14-7f973c3ca868",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T12:11:42.318Z",
+        "updated_at": "2023-08-15T12:34:12.939Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e8333b0-b953-436c-8d37-199fbae99088",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-14T20:33:46.908Z",
+        "updated_at": "2023-08-14T23:32:47.476Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ae6d725-2da5-4f1e-bcf6-730fe9867c7f",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-14T20:02:23.218Z",
+        "updated_at": "2023-08-15T02:48:27.218Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2d42399-565b-407e-89c5-2f09b8c73bb3",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-15T09:39:13.046Z",
+        "updated_at": "2023-08-15T04:36:57.250Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adad8979-9f96-4e0c-8db1-935cd15f91f0",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-15T05:09:42.665Z",
+        "updated_at": "2023-08-14T16:21:56.276Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "f8f820c9-52b2-410d-941a-efe1957ef871",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-14T16:13:25.583Z",
+        "updated_at": "2023-08-15T07:56:17.788Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "129e5338-7072-4686-abd9-9254296fb28d",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-14T14:40:08.064Z",
+        "updated_at": "2023-08-15T10:46:49.862Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca94b46a-ff9f-4990-95f1-185728d931f1",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-14T19:18:25.387Z",
+        "updated_at": "2023-08-15T10:59:35.713Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c080a7e-6856-4731-b9fb-501d23359d19",
+        "name": "Holiday Promotion Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-15T01:15:14.232Z",
+        "updated_at": "2023-08-15T03:37:07.298Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77db8cb8-05a5-4ee5-a2df-0b750e0b5cfb",
+        "name": "Customer Loyalty Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-14T16:47:35.466Z",
+        "updated_at": "2023-08-14T13:36:02.845Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "d5a73949-7e78-4c11-a966-a2e5ae4fd500",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-14T17:29:23.680Z",
+        "updated_at": "2023-08-15T13:16:35.389Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6cc67a86-9e9f-4c1d-b433-d84d53fc8632",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-15T10:46:13.180Z",
+        "updated_at": "2023-08-14T22:24:55.716Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3802bea-5bd0-4cfc-95f4-f536ece115ba",
+        "name": "Data Loss Alert",
+        "created_at": "2023-08-15T05:07:04.931Z",
+        "updated_at": "2023-08-15T10:13:59.469Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bae79e56-42c5-47ab-8928-3e42f7a424a6",
+        "name": "Network Outage Alert",
+        "created_at": "2023-08-15T12:41:37.760Z",
+        "updated_at": "2023-08-15T06:40:52.006Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b21f0ba4-1644-4066-b72d-afaecf93c68b",
+        "name": "Server Maintenance Alert",
+        "created_at": "2023-08-15T10:07:27.191Z",
+        "updated_at": "2023-08-14T14:04:17.956Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "77db3a52-a5f9-48a6-b8e3-674c0d33ae68",
+        "email": "Mack.Sporer23@yahoo.com",
+        "firstName": "Willis",
+        "lastName": "Gusikowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49322398",
+        "tenantId": null
+      },
+      {
+        "reference": "c76cef6f-f97f-47c5-b148-c18f50f15703",
+        "email": "Leone6@gmail.com",
+        "firstName": "Davon",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/289.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e71ecc9e-edbd-4ec2-be58-cf5746c068db",
+        "email": "Barry_Mante@hotmail.com",
+        "firstName": "Isom",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/58.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "31d8d49f-208d-487f-b761-20f51a14c4ee",
+        "email": "Herminio12@gmail.com",
+        "firstName": "Barbara",
+        "lastName": "Langworth-Schaden",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42805348",
+        "tenantId": null
+      },
+      {
+        "reference": "e6f7c81d-e274-413d-a104-6f5b0e49a1f1",
+        "email": "Gwen16@yahoo.com",
+        "firstName": "Mustafa",
+        "lastName": "Lubowitz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44238738",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "72f858a4-e72b-495b-ac06-f8832edfc4ef",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T06:34:49.021Z",
+        "updated_at": "2023-08-15T11:00:22.881Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd61cf95-97f5-4f63-9498-4404038939bd",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-14T15:22:48.899Z",
+        "updated_at": "2023-08-15T05:53:20.530Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a69b82cb-5478-45ae-92fe-b3af9fe1b707",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-15T08:27:24.435Z",
+        "updated_at": "2023-08-15T10:09:51.515Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1acd8596-9baf-4248-a7fb-a7c34e169268",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T23:15:01.268Z",
+        "updated_at": "2023-08-14T16:12:41.864Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e3e732a-43f8-4dfa-bcb0-23367dfd92ac",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-15T12:34:19.985Z",
+        "updated_at": "2023-08-15T04:39:12.307Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "8bc4eaa2-6458-45f5-bbcc-f4517d45d61e",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-14T23:10:59.742Z",
+        "updated_at": "2023-08-15T07:46:52.142Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12ab3b56-5cc2-43eb-b02a-a1ed32952210",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-14T14:55:10.502Z",
+        "updated_at": "2023-08-15T07:23:34.732Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b55a45b5-2f8e-4f6a-b113-f6d7851c5aad",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-15T05:15:08.123Z",
+        "updated_at": "2023-08-15T02:26:13.747Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f2ea0cf-be9d-46eb-a3f3-4e1743d32960",
+        "name": "Holiday Season Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-15T06:12:46.391Z",
+        "updated_at": "2023-08-14T19:46:35.461Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "005651a9-278d-480f-bf31-6c08cb2b6468",
+        "name": "Brand Awareness Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-15T00:51:25.888Z",
+        "updated_at": "2023-08-15T13:18:07.762Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "10416756-bdd4-41c6-83ec-2b1a034fae1a",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-14T15:54:06.397Z",
+        "updated_at": "2023-08-15T07:40:30.556Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71b3981b-d0dd-44ed-9b18-6d18d9c1be07",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-15T07:52:56.402Z",
+        "updated_at": "2023-08-14T14:54:15.349Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53496f72-8a1e-46f7-a679-93be2b007cf3",
+        "name": "Weather Advisory Alert",
+        "created_at": "2023-08-14T17:29:23.050Z",
+        "updated_at": "2023-08-15T03:26:28.012Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c36267a0-4bb2-41d3-9da7-1651293e1edd",
+        "name": "Product Out of Stock Alert",
+        "created_at": "2023-08-15T11:11:48.961Z",
+        "updated_at": "2023-08-15T11:08:48.032Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad9448c8-e4bd-422f-baeb-06f47d8eb813",
+        "name": "Payment Processing Error Alert",
+        "created_at": "2023-08-15T10:29:18.602Z",
+        "updated_at": "2023-08-14T13:49:19.303Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a9e8a1ba-9cdc-4165-a18f-dba1458a3cb0",
+        "email": "Sammie.Hills@hotmail.com",
+        "firstName": "Kaley",
+        "lastName": "Bahringer-Rice",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82211773",
+        "tenantId": null
+      },
+      {
+        "reference": "484c3afd-4bb8-452c-9ce0-05dfd1e3149a",
+        "email": "Christine.Heller@gmail.com",
+        "firstName": "Alene",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/395.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6ce3ebcf-db6c-4cc2-99cd-4bda3acebefb",
+        "email": "Eugenia92@yahoo.com",
+        "firstName": "Pink",
+        "lastName": "Cartwright",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/59.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "64052228-d3c1-4918-bfc7-c907687c672c",
+        "email": "Keyshawn_Pfannerstill@gmail.com",
+        "firstName": "Woodrow",
+        "lastName": "Ruecker-Jaskolski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95646240",
+        "tenantId": null
+      },
+      {
+        "reference": "ebc303c3-d76e-4970-80d1-9af3865dbc8d",
+        "email": "Sophia16@hotmail.com",
+        "firstName": "Susanna",
+        "lastName": "Frami",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "c5807091-b26e-48bc-be09-55d6a1f77952",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T05:32:20.251Z",
+        "updated_at": "2023-08-15T12:43:09.502Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cfc4f56e-bc69-4973-aca6-754ca85d3f0d",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-14T23:37:58.203Z",
+        "updated_at": "2023-08-14T14:19:13.897Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe949076-26b1-4d7d-801d-057bee4e88ac",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-14T22:52:52.605Z",
+        "updated_at": "2023-08-15T05:45:56.103Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "983c3a17-72de-4285-87b3-4d9998cf9b19",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T17:05:07.932Z",
+        "updated_at": "2023-08-15T11:10:21.114Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3165bef2-8f39-44b7-a1f6-3739bb007387",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-14T23:38:48.692Z",
+        "updated_at": "2023-08-15T06:56:12.241Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "896da697-9b77-43d3-9c1c-c97140549378",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-14T22:06:57.020Z",
+        "updated_at": "2023-08-14T18:00:06.123Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b32598f5-8290-4b61-bcfa-c351af5685d6",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-14T16:11:34.686Z",
+        "updated_at": "2023-08-14T21:57:22.766Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f93996b-8d32-41b4-ad49-8741ddc6302a",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-15T01:38:38.538Z",
+        "updated_at": "2023-08-14T16:21:23.204Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d86cc0a3-3372-427d-bdc2-ae71803c53bc",
+        "name": "Holiday Season Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-15T09:06:57.057Z",
+        "updated_at": "2023-08-15T03:45:10.325Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82534665-634f-4145-a2e0-f8d8c8e80897",
+        "name": "Brand Awareness Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-14T13:59:43.586Z",
+        "updated_at": "2023-08-15T11:05:01.485Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "4db5be15-79e2-4595-a54d-7a2c1396d043",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-15T02:26:20.370Z",
+        "updated_at": "2023-08-15T04:33:39.763Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ab34ff3-f07e-4f98-a602-2c313af7308a",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-15T07:20:50.909Z",
+        "updated_at": "2023-08-15T01:10:06.807Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c96a97e-aedb-4a86-9bef-6ca65c936872",
+        "name": "Data Loss Alert",
+        "created_at": "2023-08-14T22:50:05.436Z",
+        "updated_at": "2023-08-14T18:58:16.009Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "491bfcf5-c396-4bb3-b376-8bcaaf05b8d7",
+        "name": "Network Outage Alert",
+        "created_at": "2023-08-15T10:12:41.334Z",
+        "updated_at": "2023-08-15T07:30:13.722Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cad8e6a6-73d3-4923-8936-d5fe2d0cc255",
+        "name": "Server Maintenance Alert",
+        "created_at": "2023-08-15T07:08:01.445Z",
+        "updated_at": "2023-08-15T10:05:00.734Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a0c8a299-2385-4709-a2e9-14bd7b231524",
+        "email": "Laverna_Hansen74@hotmail.com",
+        "firstName": "Levi",
+        "lastName": "Kuhic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21996618",
+        "tenantId": null
+      },
+      {
+        "reference": "66768e33-dcc2-4937-984c-d72e9bb96132",
+        "email": "Abe63@yahoo.com",
+        "firstName": "Jaron",
+        "lastName": "Kuhic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88477926",
+        "tenantId": null
+      },
+      {
+        "reference": "b7febbee-8f46-4152-8a9b-aab340aafba1",
+        "email": "Nova_Littel72@hotmail.com",
+        "firstName": "Nova",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90161964",
+        "tenantId": null
+      },
+      {
+        "reference": "f5938b1b-65ed-4e94-845a-610b083c6726",
+        "email": "Bryana.McClure34@hotmail.com",
+        "firstName": "Estefania",
+        "lastName": "Smith",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1202.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "196becef-1860-4970-86d4-088d1fd9e346",
+        "email": "Judd9@yahoo.com",
+        "firstName": "Louvenia",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/752.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "8139d1a8-e9d9-4709-9dda-aa14dd2babdc",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T02:48:56.226Z",
+        "updated_at": "2023-08-15T02:09:30.615Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96d9d189-1ebd-4262-9b57-254ac4eb8b16",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-15T01:28:39.413Z",
+        "updated_at": "2023-08-14T22:33:04.574Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f88a91f4-b076-4945-9c31-40ff2d1cbd50",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-14T22:26:11.422Z",
+        "updated_at": "2023-08-14T17:25:47.191Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e900185d-667b-4034-8964-7fd1cb5e6e91",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-15T00:18:47.897Z",
+        "updated_at": "2023-08-14T14:30:47.927Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "404eee4d-466c-46bc-a529-8de9cca8f6ca",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-15T11:58:28.478Z",
+        "updated_at": "2023-08-15T09:59:11.704Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "80a9201b-a77f-4839-a954-0995f55b63ed",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-14T21:43:21.894Z",
+        "updated_at": "2023-08-14T18:26:51.805Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "32e99b44-54c0-4a8b-90bb-42d51b246afd",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-15T08:38:51.020Z",
+        "updated_at": "2023-08-14T14:10:34.826Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed06ad38-0ca5-4da8-8f31-75e2267ada9a",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-14T17:01:35.775Z",
+        "updated_at": "2023-08-14T20:08:37.875Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0594913a-75f6-443c-970c-ee9913554db3",
+        "name": "Holiday Season Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-15T07:46:09.950Z",
+        "updated_at": "2023-08-14T23:34:30.035Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b21bfb43-a1ca-43fe-9bd6-3425a149ed8d",
+        "name": "Brand Awareness Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-15T11:41:27.294Z",
+        "updated_at": "2023-08-15T00:01:54.969Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "688351b8-69c2-4564-a1ea-262475480e82",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-15T11:19:42.087Z",
+        "updated_at": "2023-08-14T23:18:54.157Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ed97889-6b08-44c3-bba2-9d840778118a",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-14T18:14:34.784Z",
+        "updated_at": "2023-08-15T00:09:08.686Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71ba7fdb-1fb5-41ec-8e30-cdf05a2f4b6c",
+        "name": "Data Loss Alert",
+        "created_at": "2023-08-14T22:45:40.122Z",
+        "updated_at": "2023-08-14T16:59:29.407Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02c75af8-894e-42bf-9ea7-41aaeb85fc5a",
+        "name": "Network Outage Alert",
+        "created_at": "2023-08-14T14:59:11.645Z",
+        "updated_at": "2023-08-15T05:28:09.858Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4092cfd-0451-4fa6-b33a-c6c447d172b5",
+        "name": "Server Maintenance Alert",
+        "created_at": "2023-08-15T03:16:15.484Z",
+        "updated_at": "2023-08-14T17:44:18.341Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4d291a68-4c0f-4982-b712-d911d16964c6",
+        "email": "Mack30@gmail.com",
+        "firstName": "Itzel",
+        "lastName": "Shields-Vandervort",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/875.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ec47066-0320-4d58-a7dc-8f235e9c72df",
+        "email": "Justus.Kuphal@hotmail.com",
+        "firstName": "Hester",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61872701",
+        "tenantId": null
+      },
+      {
+        "reference": "9ea02a58-f877-4dd2-a029-3ed1ec950237",
+        "email": "Stefan90@gmail.com",
+        "firstName": "Nelle",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/850.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f16b4d53-ec46-496f-951d-3111dc18b658",
+        "email": "Arlie11@hotmail.com",
+        "firstName": "Kaelyn",
+        "lastName": "Towne",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/32.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "34bdb456-079c-44e7-bb5f-6d17bd12ad4b",
+        "email": "Jeanie_Rowe@gmail.com",
+        "firstName": "Odie",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/135.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "4a4372d2-2caa-4355-bc28-74f7dd4bc82b",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T12:04:06.396Z",
+        "updated_at": "2023-08-14T17:09:48.221Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b41fb8a6-638b-4de4-afde-22c3f1f62245",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-14T17:46:13.796Z",
+        "updated_at": "2023-08-15T09:48:23.607Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d4a4769-ff53-4ed8-9b3f-ee2a0c9735da",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-14T16:59:49.829Z",
+        "updated_at": "2023-08-15T11:30:07.592Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ae49240-b7d5-4a5f-b505-6b231e85fdce",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T18:58:11.597Z",
+        "updated_at": "2023-08-15T10:59:06.036Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9370dcda-6004-422e-b165-a3ebe070a044",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-15T04:17:02.225Z",
+        "updated_at": "2023-08-14T22:24:10.434Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "dc9b1e05-052f-44de-b09c-dc9d869f4f78",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-14T22:11:53.778Z",
+        "updated_at": "2023-08-14T16:12:12.380Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97d3b402-6660-4cf8-8568-89185f972a76",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-14T18:26:12.311Z",
+        "updated_at": "2023-08-15T02:15:35.332Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "49d2937d-e39d-490a-8440-83c42e85f768",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-15T08:39:26.799Z",
+        "updated_at": "2023-08-14T18:37:24.527Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c7e61b7-cf57-4c45-b195-6e8a9f9bb9e3",
+        "name": "Holiday Season Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-14T23:38:00.131Z",
+        "updated_at": "2023-08-14T19:11:59.522Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e10ee97-2b54-4b77-b506-608bd3794407",
+        "name": "Brand Awareness Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-15T05:24:39.692Z",
+        "updated_at": "2023-08-15T00:12:30.079Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "98cefdf6-91b4-4a83-814a-595f1c95b6b5",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-15T03:46:44.023Z",
+        "updated_at": "2023-08-14T22:17:55.976Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d2b9695-bb83-43f0-a64a-ffac0a24c998",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-15T07:59:51.987Z",
+        "updated_at": "2023-08-15T11:27:23.395Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1be6260f-e407-4f77-a3d5-1edc488a5c93",
+        "name": "Weather Advisory Alert",
+        "created_at": "2023-08-15T09:43:55.665Z",
+        "updated_at": "2023-08-14T18:37:50.000Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8efe8992-8950-4e99-b7af-a7a0bfe4cded",
+        "name": "Product Out of Stock Alert",
+        "created_at": "2023-08-14T17:51:28.874Z",
+        "updated_at": "2023-08-14T21:55:04.640Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad95eac1-5f48-440e-8081-3f1d3407be27",
+        "name": "Payment Processing Error Alert",
+        "created_at": "2023-08-15T08:01:53.007Z",
+        "updated_at": "2023-08-14T17:07:00.197Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0c1fe255-e832-43ea-8599-58913d634d22",
+        "email": "Marcos87@hotmail.com",
+        "firstName": "Herta",
+        "lastName": "Pagac",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/884.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c03c2f99-2d7a-42db-908e-d0c51c137044",
+        "email": "Dolores_Koelpin53@yahoo.com",
+        "firstName": "Dolores",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95935490",
+        "tenantId": null
+      },
+      {
+        "reference": "51a211b4-1635-4dcf-9f1d-0a3d90c53c38",
+        "email": "Marty.Pouros@hotmail.com",
+        "firstName": "Barbara",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33541083",
+        "tenantId": null
+      },
+      {
+        "reference": "4da225b0-f965-4839-853a-41ddd1d8c1b9",
+        "email": "Hailie_Green66@gmail.com",
+        "firstName": "Frida",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36513244",
+        "tenantId": null
+      },
+      {
+        "reference": "49a0c8c0-74e0-4869-a269-f7468a34b590",
+        "email": "Ashton98@gmail.com",
+        "firstName": "Garnett",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13742251",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "64134bff-5f6b-404d-8208-f801af733538",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-14T17:41:16.727Z",
+        "updated_at": "2023-08-14T22:15:06.437Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3be1c212-3fc5-4dfc-bc8c-173aee450b01",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-15T00:14:02.772Z",
+        "updated_at": "2023-08-15T06:30:48.154Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b70fc69-d832-47fa-9b1e-d1e2b77e4dbb",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-15T06:25:01.274Z",
+        "updated_at": "2023-08-14T18:39:19.387Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aececce9-d960-43d8-806d-dbe019bf168a",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T20:50:43.575Z",
+        "updated_at": "2023-08-14T14:04:21.613Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dfd68224-283a-441b-a0c1-ced3feee1b5c",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-14T19:51:29.377Z",
+        "updated_at": "2023-08-14T14:39:16.992Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "03ba9329-92d8-43d6-9e24-c8a11e17d4e4",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-15T06:59:13.772Z",
+        "updated_at": "2023-08-14T14:19:09.508Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "884c7df2-14e4-498b-964d-910b597d7d41",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-14T18:30:52.254Z",
+        "updated_at": "2023-08-15T04:56:09.672Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0bed7d9d-e061-4743-9c7c-5056ae7126c7",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-14T19:56:57.018Z",
+        "updated_at": "2023-08-15T11:29:54.372Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5947c77c-d788-449c-9c29-243671076d68",
+        "name": "Holiday Season Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-14T21:26:06.840Z",
+        "updated_at": "2023-08-15T07:45:48.251Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dcc1b71d-633c-4d56-b734-0a3709e70e18",
+        "name": "Brand Awareness Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-14T22:23:56.849Z",
+        "updated_at": "2023-08-15T02:46:25.729Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "5842a7db-1984-473c-b2b3-e888947f4c8e",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-15T00:23:14.492Z",
+        "updated_at": "2023-08-14T22:35:27.233Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52554426-f49d-4730-a276-944647f06220",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-15T12:16:35.263Z",
+        "updated_at": "2023-08-15T12:10:06.291Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed9c2f49-1478-4a2e-ac12-f4c45d5c0a5e",
+        "name": "Performance Degradation Alert",
+        "created_at": "2023-08-15T02:55:26.924Z",
+        "updated_at": "2023-08-14T21:48:35.978Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1f4ec0c-4700-4eab-8321-60764ab99b06",
+        "name": "Data Loss Alert",
+        "created_at": "2023-08-15T05:34:00.621Z",
+        "updated_at": "2023-08-15T12:57:26.709Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f7c77d4-99c5-4bae-938d-e72afef35582",
+        "name": "Network Outage Alert",
+        "created_at": "2023-08-14T23:27:06.601Z",
+        "updated_at": "2023-08-14T22:09:33.374Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a4dfe85a-f1be-45d6-9f15-7954846e5202",
+        "email": "Edythe.Cummings31@gmail.com",
+        "firstName": "Daisy",
+        "lastName": "Wilkinson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/94.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e96ef640-ec5d-45fe-82a3-db6b443a0bd7",
+        "email": "Lolita90@hotmail.com",
+        "firstName": "Matilda",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40603230",
+        "tenantId": null
+      },
+      {
+        "reference": "6cd7b9e3-b9af-456f-a15a-0b2e83bbe815",
+        "email": "Evans98@gmail.com",
+        "firstName": "Theodora",
+        "lastName": "Kessler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50083186",
+        "tenantId": null
+      },
+      {
+        "reference": "f2b2c676-786a-45d1-9241-de56bed6e06a",
+        "email": "Linwood14@gmail.com",
+        "firstName": "Favian",
+        "lastName": "White",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1091.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a2630858-2af1-4949-b40b-ab7ac7aed375",
+        "email": "Marge_Ziemann46@gmail.com",
+        "firstName": "Larry",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/256.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "dc2b7ee7-ac50-4b80-89f2-4a4526e67e5f",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T10:33:13.347Z",
+        "updated_at": "2023-08-15T13:19:49.840Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33b8be5a-2ebb-4676-bf24-efe6d71cdc29",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-14T17:25:35.654Z",
+        "updated_at": "2023-08-15T02:28:27.635Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc2a1b5c-82b7-450a-9692-0b1ab85a5e14",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-15T01:43:19.488Z",
+        "updated_at": "2023-08-14T18:18:18.500Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a686b21-a6ae-4831-8de8-16550c1327fd",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T14:19:02.840Z",
+        "updated_at": "2023-08-14T17:29:26.264Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef3baeb9-6ed7-4673-aa96-4ca5e07466ee",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-15T03:06:45.849Z",
+        "updated_at": "2023-08-15T00:52:43.631Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "f10e79cc-9d74-40e0-a30c-db9d7059bf7d",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-15T03:13:37.082Z",
+        "updated_at": "2023-08-14T13:43:13.605Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8980a562-edf9-431c-83f9-e597b5831f2d",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-15T01:03:49.090Z",
+        "updated_at": "2023-08-15T01:10:01.073Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2fce829-125e-447b-b812-5626342420d7",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-15T02:26:00.076Z",
+        "updated_at": "2023-08-15T09:45:12.940Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a92c63a6-5f87-4b76-a38c-e82ffcd3258c",
+        "name": "Holiday Promotion Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-15T01:02:38.452Z",
+        "updated_at": "2023-08-14T21:55:09.308Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d71592ca-5e5f-4237-9e7e-41e9dd6ed889",
+        "name": "Customer Loyalty Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-14T22:12:40.654Z",
+        "updated_at": "2023-08-15T00:41:16.030Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "eff70713-b3ca-4c36-b5e4-d006ac55d736",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-15T08:34:58.306Z",
+        "updated_at": "2023-08-15T04:19:10.501Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7430ebf3-0388-4e72-8090-709a9832c580",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-15T12:32:20.169Z",
+        "updated_at": "2023-08-14T23:03:55.721Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d8de2c94-7615-4b71-a043-3e86566281a1",
+        "name": "Weather Advisory Alert",
+        "created_at": "2023-08-14T14:28:39.480Z",
+        "updated_at": "2023-08-15T08:42:20.466Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53587704-594d-4794-9b6d-3b8b366be77e",
+        "name": "Product Out of Stock Alert",
+        "created_at": "2023-08-15T01:49:54.270Z",
+        "updated_at": "2023-08-14T17:46:54.427Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8279e70-ef90-46d9-a412-d610d62f1280",
+        "name": "Payment Processing Error Alert",
+        "created_at": "2023-08-14T20:05:05.943Z",
+        "updated_at": "2023-08-14T13:51:28.340Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a208eacd-4ec7-47f6-adc6-44706c7d8b35",
+        "email": "Madonna5@gmail.com",
+        "firstName": "Micah",
+        "lastName": "Heidenreich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56499412",
+        "tenantId": null
+      },
+      {
+        "reference": "3ea62fd3-59c9-4587-bc50-600ff3eca190",
+        "email": "Kaci78@hotmail.com",
+        "firstName": "Hailie",
+        "lastName": "Hamill",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18821558",
+        "tenantId": null
+      },
+      {
+        "reference": "486ed888-2f22-4463-91e3-bc3d83ff9668",
+        "email": "Gwendolyn_Senger93@gmail.com",
+        "firstName": "Bret",
+        "lastName": "Wuckert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/546.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6f5ec88f-66a5-4cd8-906a-91a762cfe452",
+        "email": "Alessandro_Lakin@hotmail.com",
+        "firstName": "Noah",
+        "lastName": "Franey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7389654",
+        "tenantId": null
+      },
+      {
+        "reference": "264f92ef-3feb-45e3-bca4-f6ddcfae6d1a",
+        "email": "Nikita_Zemlak@yahoo.com",
+        "firstName": "Euna",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3890459",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "a3e787f6-7e85-4d4f-877e-00cb73e438ef",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T02:03:05.990Z",
+        "updated_at": "2023-08-15T13:32:09.272Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c762d2c-9ebf-428e-9033-9948df17f5d6",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-15T07:30:19.592Z",
+        "updated_at": "2023-08-14T22:03:47.946Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c6c20f0-32bd-491c-964f-032b8dc5bd62",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-15T04:53:20.969Z",
+        "updated_at": "2023-08-15T07:09:50.666Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1edb7ce-2e35-4f3e-a672-54d513905bcc",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T22:26:51.233Z",
+        "updated_at": "2023-08-15T08:57:02.607Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6ab9c99-4cdd-43bd-9180-c872e939a9f5",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-15T00:47:35.485Z",
+        "updated_at": "2023-08-14T15:27:25.261Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "fbd3d17c-edfc-4bb6-88bb-ddc04668d6af",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-14T20:45:49.214Z",
+        "updated_at": "2023-08-15T11:24:51.961Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c80cbb0-d3ac-4b39-8eec-b426c7e17894",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-15T05:27:07.849Z",
+        "updated_at": "2023-08-14T13:56:09.655Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd2a48d7-369a-4d1f-92c2-8f4b47d76258",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-14T20:22:29.410Z",
+        "updated_at": "2023-08-15T12:01:00.711Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5474613-6859-4801-985a-68e625759c00",
+        "name": "Holiday Season Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-14T21:50:20.740Z",
+        "updated_at": "2023-08-14T14:05:47.426Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25919104-cde3-4c97-9452-60a52479fdfa",
+        "name": "Brand Awareness Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-15T07:55:56.718Z",
+        "updated_at": "2023-08-15T02:22:31.887Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "2e5a289f-2b3b-4846-a58f-13442dd6a63f",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-14T15:23:36.982Z",
+        "updated_at": "2023-08-15T04:21:39.630Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "167e47a2-5d71-425b-b8bd-f56553264b4f",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-14T14:39:06.480Z",
+        "updated_at": "2023-08-14T23:07:42.910Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0febc284-2239-4a54-98e4-9d8832c1c125",
+        "name": "Performance Degradation Alert",
+        "created_at": "2023-08-14T22:21:51.952Z",
+        "updated_at": "2023-08-15T09:05:07.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1711b1ae-74c2-4a15-9df9-5bcc5a4abb97",
+        "name": "Data Loss Alert",
+        "created_at": "2023-08-14T18:10:56.799Z",
+        "updated_at": "2023-08-15T03:06:58.765Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79ef249e-9a1e-42f8-a57b-2c600b1346f9",
+        "name": "Network Outage Alert",
+        "created_at": "2023-08-15T08:15:33.830Z",
+        "updated_at": "2023-08-15T01:44:32.519Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0115bb88-a00e-4fa7-8945-9ba9a62d9db9",
+        "email": "Cheyanne_Roberts@gmail.com",
+        "firstName": "Elody",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12631397",
+        "tenantId": null
+      },
+      {
+        "reference": "6048b6b6-656e-402d-8489-4924b19e71c1",
+        "email": "Corrine_Huels44@hotmail.com",
+        "firstName": "Coralie",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/211.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8ebb7fee-abf6-4eaf-9a69-35b7839a8be4",
+        "email": "Emory71@yahoo.com",
+        "firstName": "Jan",
+        "lastName": "Nicolas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/154.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "22755c1d-4c29-4fef-869a-4b5b34a43674",
+        "email": "Efren90@yahoo.com",
+        "firstName": "Philip",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55489033",
+        "tenantId": null
+      },
+      {
+        "reference": "f1ec4220-b322-4ba1-bd88-fbd3f2a92a12",
+        "email": "Elsie6@hotmail.com",
+        "firstName": "Jordyn",
+        "lastName": "Swaniawski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17362933",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "c8805bbd-b7d6-438b-acec-2e17d8e7ff69",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-14T20:40:19.390Z",
+        "updated_at": "2023-08-14T19:05:59.999Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "547c1663-c4e1-44cb-9901-68b0345746fd",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-15T07:04:07.830Z",
+        "updated_at": "2023-08-14T19:10:54.229Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de3494d1-7b2f-4657-bb34-81c8e45f5a76",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-15T07:05:48.365Z",
+        "updated_at": "2023-08-14T20:23:08.807Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8806e436-4a4b-4ba4-9a44-0e4552b444fb",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T17:49:54.033Z",
+        "updated_at": "2023-08-15T02:56:40.064Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f60125b6-c046-4d47-b0a9-3257e21cb131",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-15T06:47:07.269Z",
+        "updated_at": "2023-08-14T17:54:41.607Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "501cd73e-4a0a-475c-8356-c98d512e5092",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-15T03:51:38.452Z",
+        "updated_at": "2023-08-15T02:14:17.270Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9bca5de-904b-482c-b5a5-b0ac2496f53a",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-14T22:06:56.046Z",
+        "updated_at": "2023-08-14T22:10:19.387Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbbc5902-583d-44f8-838a-3fefbb541df4",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-15T01:52:31.329Z",
+        "updated_at": "2023-08-15T11:33:04.939Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c44d443-8042-4d6b-aa61-e83b4f77906a",
+        "name": "Holiday Promotion Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-15T01:14:47.444Z",
+        "updated_at": "2023-08-15T05:45:22.245Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd204645-0477-44c3-ba53-2594fca6b26f",
+        "name": "Customer Loyalty Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-14T22:44:15.160Z",
+        "updated_at": "2023-08-14T23:07:58.494Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "db65ef12-19b6-4ce2-9f9f-ad8fc1cbacd5",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-15T12:19:09.971Z",
+        "updated_at": "2023-08-14T15:21:18.982Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2721f685-608b-4275-9cfd-0cbadb008956",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-14T13:34:38.853Z",
+        "updated_at": "2023-08-14T22:35:03.987Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b49a5af-7cea-401a-a8c5-bf70e6350560",
+        "name": "High Priority Notification",
+        "created_at": "2023-08-15T11:42:51.721Z",
+        "updated_at": "2023-08-14T21:58:30.259Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8f8c989-96c1-4a04-a76b-7f9bbf8f6e62",
+        "name": "Data Loss Alert",
+        "created_at": "2023-08-15T06:51:30.513Z",
+        "updated_at": "2023-08-15T12:10:22.862Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "283e525e-7aff-4d7a-a06b-d64ed7310457",
+        "name": "Network Outage Alert",
+        "created_at": "2023-08-15T08:18:52.156Z",
+        "updated_at": "2023-08-15T01:55:22.132Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "affc38b7-71a2-49d0-a637-e30f1e850045",
+        "email": "Lucinda.Pagac79@hotmail.com",
+        "firstName": "Mckayla",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/938.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bfb07eb9-20e0-4f51-8814-c2a9a68a3768",
+        "email": "Bertrand_Wehner@gmail.com",
+        "firstName": "Wilfrid",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75101927",
+        "tenantId": null
+      },
+      {
+        "reference": "92cefef9-de2e-4351-ab39-52a22ae7ddea",
+        "email": "Robb74@yahoo.com",
+        "firstName": "Linnea",
+        "lastName": "Walker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4493701",
+        "tenantId": null
+      },
+      {
+        "reference": "73e4f4b8-06a7-4b79-953c-47f07c030ecf",
+        "email": "Reid.Metz29@gmail.com",
+        "firstName": "Crawford",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40223233",
+        "tenantId": null
+      },
+      {
+        "reference": "5e88efdd-dc6c-49e7-b553-28a37445bbcd",
+        "email": "Brenna.Hilll@hotmail.com",
+        "firstName": "Katheryn",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/164.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "dashboard": [
+      {
+        "id": "4c91a8f3-a330-4f28-a923-4cdf4135e731",
+        "name": "Sales Dashboard",
+        "created_at": "2023-08-15T01:10:13.896Z",
+        "updated_at": "2023-08-15T01:54:34.659Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fee831e4-4db1-4480-a721-ea73b66ac22a",
+        "name": "Marketing Dashboard",
+        "created_at": "2023-08-14T15:12:00.398Z",
+        "updated_at": "2023-08-15T09:39:38.715Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab96d4dc-9fc7-4dc9-950f-effb5576dd74",
+        "name": "Finance Dashboard",
+        "created_at": "2023-08-15T00:02:08.507Z",
+        "updated_at": "2023-08-15T10:41:15.944Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "235843ba-d1f4-4534-9365-cca073db4b2b",
+        "name": "Operations Dashboard",
+        "created_at": "2023-08-14T21:50:14.176Z",
+        "updated_at": "2023-08-15T10:40:11.485Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a645824-66b4-41e9-b7c0-4b71fc6a0fe1",
+        "name": "HR Dashboard",
+        "created_at": "2023-08-14T15:10:43.570Z",
+        "updated_at": "2023-08-15T08:26:28.732Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "campaign": [
+      {
+        "id": "69280d13-619c-458b-ac32-1b3cb01df719",
+        "name": "Summer Sale Campaign",
+        "status": "Active",
+        "created_at": "2023-08-14T14:39:38.873Z",
+        "updated_at": "2023-08-14T14:27:27.498Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44453df3-a018-4568-af57-0d6687bce21f",
+        "name": "Product Launch Campaign",
+        "status": "Paused",
+        "created_at": "2023-08-14T21:10:11.150Z",
+        "updated_at": "2023-08-14T22:49:38.016Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c8454e3-8c5d-473e-a89a-5d731a501d5e",
+        "name": "Charity Fundraising Campaign",
+        "status": "Completed",
+        "created_at": "2023-08-14T22:21:00.033Z",
+        "updated_at": "2023-08-14T20:33:41.126Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c202f059-f064-4e72-bf83-b43ec99ef6c6",
+        "name": "Holiday Season Campaign",
+        "status": "Upcoming",
+        "created_at": "2023-08-14T20:38:01.324Z",
+        "updated_at": "2023-08-14T20:07:19.294Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48910345-d6f3-4604-bbec-0c889f12fa02",
+        "name": "Brand Awareness Campaign",
+        "status": "Cancelled",
+        "created_at": "2023-08-15T02:30:40.625Z",
+        "updated_at": "2023-08-15T01:55:01.474Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "alert": [
+      {
+        "id": "83f0d030-08ae-4b3e-a057-be6b8ee7140a",
+        "name": "Critical System Alert",
+        "created_at": "2023-08-15T03:21:34.338Z",
+        "updated_at": "2023-08-15T05:28:40.228Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abeaa649-ae87-44d1-a365-ef998beca31b",
+        "name": "Security Breach Alert",
+        "created_at": "2023-08-15T11:59:37.691Z",
+        "updated_at": "2023-08-14T21:47:03.043Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5001c3b9-51e1-47f3-8f4b-4bd63a38b179",
+        "name": "Data Loss Alert",
+        "created_at": "2023-08-15T10:23:24.571Z",
+        "updated_at": "2023-08-15T07:51:23.321Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79442d45-2335-4181-b85c-0420803546b1",
+        "name": "Network Outage Alert",
+        "created_at": "2023-08-15T06:05:16.093Z",
+        "updated_at": "2023-08-14T14:18:34.934Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cf9ab6a-071e-4635-8aa1-52f32d844d55",
+        "name": "Server Maintenance Alert",
+        "created_at": "2023-08-14T18:46:49.761Z",
+        "updated_at": "2023-08-15T11:27:00.527Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8823fc63-2f67-41c0-a129-37b2b25223e3",
+        "email": "Jensen61@yahoo.com",
+        "firstName": "Virginie",
+        "lastName": "Blanda",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18066786",
+        "tenantId": null
+      },
+      {
+        "reference": "0bbb280c-b798-4156-9fea-3124d3a6c604",
+        "email": "Marion.Auer41@hotmail.com",
+        "firstName": "Christina",
+        "lastName": "Lakin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15212359",
+        "tenantId": null
+      },
+      {
+        "reference": "e7cf4e03-0bec-4244-8c8d-3ab16d3e8195",
+        "email": "Eric68@hotmail.com",
+        "firstName": "Korey",
+        "lastName": "Lynch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/559.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fb2cdad0-9b52-4850-a112-1d5f7aeafcc0",
+        "email": "Lilla.Hackett52@hotmail.com",
+        "firstName": "Yadira",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1010.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "83910be0-d65d-4083-9e1f-3d3c2f53bfda",
+        "email": "Elian_Weber61@hotmail.com",
+        "firstName": "Serena",
+        "lastName": "Frami",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98715052",
+        "tenantId": null
+      }
+    ]
+  }
+]
